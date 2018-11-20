@@ -47,7 +47,8 @@
             ],
             "styles": [
               "src/_custom.scss",
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": [
               "./node_modules/jquery/dist/jquery.slim.min.js",

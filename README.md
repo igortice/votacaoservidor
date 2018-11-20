@@ -35,5 +35,17 @@ add to file angular.json:
 ]
 ```
 
+### [NGX-TOASTR](https://github.com/scttcper/ngx-toastr)
 
+```
+npm install ngx-toastr @angular/animations --save
+```
 
+add to file angular.json:
+```
+"styles": [
+  "src/_custom.scss",
+  "src/styles.scss",
+  "./node_modules/ngx-toastr/toastr.css"
+],
+```
